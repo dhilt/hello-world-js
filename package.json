@@ -1,0 +1,29 @@
+{
+  "name": "hello-world-js",
+  "description": "Javascript Hello World",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "./src/index.js",
+  "author": "dhilt <d.alexanov@gmail.com>",
+  "homepage": "https://github.com/dhilt/hello-world-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhilt/hello-world-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhilt/hello-world-js/issues"
+  },
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node ./test/index.js"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "js",
+    "hello-world",
+    "javascript",
+    "hello world",
+    "hello world js"
+  ]
+}
