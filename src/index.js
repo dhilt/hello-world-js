@@ -1,7 +1,9 @@
-const helloString = 'Hello world!';
+var helloString = 'Hello world!';
 
-let hello = () => helloString;
+var hello = function hello() {
+  return helloString;
+};
 
 module.exports = {
-  hello
+  hello: hello
 }
